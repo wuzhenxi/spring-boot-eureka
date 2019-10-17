@@ -61,7 +61,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>eureka-service</finalName>
+        <finalName>eureka-service-${BUILD_VERSION}</finalName>
     </build>
 
 </project>
