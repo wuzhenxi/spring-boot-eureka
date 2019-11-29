@@ -11,6 +11,4 @@ public class EurekaserviceApplication {
     public static void main(String[] args) {
         SpringApplication.run(EurekaserviceApplication.class, args);
     }
-    // 修改第三次
-
 }
